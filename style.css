@@ -1,0 +1,37 @@
+html{
+    background-image: url(./assets/indexbackimage.jpg);
+    background-size: contain;    
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: center;
+     background-size: cover;
+   }
+   .table{
+    border-radius: 1cm;
+    border-color: brown ;
+    border-width:5px;
+   }
+   h1{
+    background-color:blue;
+    border-width: 5px;
+    background: linear-gradient(to bottom, #3239b0, hsl(203, 91%, 60%));
+    padding: 10px;
+    border-radius: 2cm;
+    box-shadow: 5px 5px 3px purple;
+  }
+   td{
+    border-radius: 1cm;
+    border-color:cadetblue ;
+    border-width: 3px;
+   }
+   img{
+     border:2px;
+     border-width: 5px;
+     border-radius: 1cm;
+     padding:10px;
+    }
+    img:hover{
+      background: linear-gradient(to bottom, #b07132, hsl(203, 91%, 60%));  
+     width:400px;
+    }
+  
